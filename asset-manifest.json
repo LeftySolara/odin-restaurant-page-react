@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/odin-restaurant-page-react/static/css/main.ef9cf30f.chunk.css",
+    "main.js": "/odin-restaurant-page-react/static/js/main.feae035a.chunk.js",
+    "main.js.map": "/odin-restaurant-page-react/static/js/main.feae035a.chunk.js.map",
+    "runtime-main.js": "/odin-restaurant-page-react/static/js/runtime-main.93aff653.js",
+    "runtime-main.js.map": "/odin-restaurant-page-react/static/js/runtime-main.93aff653.js.map",
+    "static/js/2.3f40c86d.chunk.js": "/odin-restaurant-page-react/static/js/2.3f40c86d.chunk.js",
+    "static/js/2.3f40c86d.chunk.js.map": "/odin-restaurant-page-react/static/js/2.3f40c86d.chunk.js.map",
+    "index.html": "/odin-restaurant-page-react/index.html",
+    "precache-manifest.c7793029660d0d62d9790c88be548eaf.js": "/odin-restaurant-page-react/precache-manifest.c7793029660d0d62d9790c88be548eaf.js",
+    "service-worker.js": "/odin-restaurant-page-react/service-worker.js",
+    "static/css/main.ef9cf30f.chunk.css.map": "/odin-restaurant-page-react/static/css/main.ef9cf30f.chunk.css.map",
+    "static/js/2.3f40c86d.chunk.js.LICENSE.txt": "/odin-restaurant-page-react/static/js/2.3f40c86d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/odin-restaurant-page-react/static/media/background.69e574c3.jpg",
+    "static/media/bagel.jpg": "/odin-restaurant-page-react/static/media/bagel.ef580cba.jpg",
+    "static/media/banana_nut_oatmeal.jpg": "/odin-restaurant-page-react/static/media/banana_nut_oatmeal.1a57dc5a.jpg",
+    "static/media/blueberry_pancakes.jpg": "/odin-restaurant-page-react/static/media/blueberry_pancakes.9fa4ccd4.jpg",
+    "static/media/blueberry_waffles.jpg": "/odin-restaurant-page-react/static/media/blueberry_waffles.f0e23c87.jpg",
+    "static/media/breakfast_platter.jpg": "/odin-restaurant-page-react/static/media/breakfast_platter.45c52478.jpg",
+    "static/media/coffee.jpg": "/odin-restaurant-page-react/static/media/coffee.cca65f65.jpg",
+    "static/media/egg_on_toast.jpg": "/odin-restaurant-page-react/static/media/egg_on_toast.285ace60.jpg",
+    "static/media/french_toast.jpg": "/odin-restaurant-page-react/static/media/french_toast.e07f64eb.jpg",
+    "static/media/tea.jpg": "/odin-restaurant-page-react/static/media/tea.2d71ef4a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93aff653.js",
+    "static/js/2.3f40c86d.chunk.js",
+    "static/css/main.ef9cf30f.chunk.css",
+    "static/js/main.feae035a.chunk.js"
+  ]
+}
